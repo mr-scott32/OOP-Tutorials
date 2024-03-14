@@ -12,16 +12,16 @@ The indicated time for this is 10 weeks (approx 30 hours) and this includes some
 
 This is a 10 week unit of work.
 
-Lesson 1 Revisting Lists, Arrays and Dictionaries
-Lesson 2 Intro to Classes and Modules
-Lesson 3 Using Methods
-Lesson 4 Objects and Attributes
-Lesson 5 Passing Messages
-Lesson 6 Classifying
-Lesson 7 Working with External File Data
-Lesson 8 Importing Classes from external files
-Lesson 9 More ways to work with External File Data
-Lesson 10 Using a A GUI with classes
-Lesson 11 using classes with PyGame
+- Lesson 1 Revisting Lists, Arrays and Dictionaries
+- Lesson 2 Intro to Classes and Modules
+- Lesson 3 Using Methods
+- Lesson 4 Objects and Attributes
+- Lesson 5 Passing Messages
+- Lesson 6 Classifying
+- Lesson 7 Working with External File Data
+- Lesson 8 Importing Classes from external files
+- Lesson 9 More ways to work with External File Data
+- Lesson 10 Using a A GUI with classes
+- Lesson 11 using classes with PyGame
 
 
