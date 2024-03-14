@@ -10,6 +10,8 @@ This would imply the use of GIT (although the extent to which GIT is explored ha
 
 The indicated time for this is 10 weeks (approx 30 hours) and this includes some form of an assessment task.
 
+This is a 10 week unit of work.
+
 Lesson 1 Revisting Lists, Arrays and Dictionaries
 Lesson 2 Intro to Classes and Modules
 Lesson 3 Using Methods
