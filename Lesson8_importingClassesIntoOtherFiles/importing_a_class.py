@@ -1,4 +1,4 @@
-from students import Student #import the Student class from the students.py file
+from Lesson8.students import Student #import the Student class from the students.py file
 
 # we are creating students using the Student class from the students.py file
 

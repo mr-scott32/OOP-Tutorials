@@ -1,5 +1,6 @@
 # Tutorial 3: Classifying Objects and Creating Instances
 
+## Walk through the example
 The active selection is an example of Object-Oriented Programming (OOP) in Python. It defines a class Dog and creates two instances of it. The concepts of classifying objects based on their attributes and behaviors, and creating instances of classes to represent individual objects are demonstrated.
 
 The **Dog class** is defined with the class keyword. It has a constructor method __init__ which is automatically called when a new instance of the class is created. 

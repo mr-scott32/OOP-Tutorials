@@ -12,7 +12,7 @@ These parameters represent the breed of a dog and its sub-breeds, respectively.
 
 Inside the constructor, these parameters are assigned to instance variables **self.breed** and **self.sub_breeds**.
 
-The script then opens a JSON file named d**ogs.json in read mode**. The json.load function is used to load the JSON data from the file into a **Python dictionary**, which is stored in the variable data.
+The script then opens a JSON file named **dogs.json in read mode**. The json.load function is used to load the JSON data from the file into a **Python dictionary**, which is stored in the variable data.
 
 A **list** named **dog_breeds** is created to store DogBreed objects.
 

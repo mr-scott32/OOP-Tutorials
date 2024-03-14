@@ -1,3 +1,4 @@
+# HSC syle example
 # Able to: Explain the purpose and benefits of using classes in programming.
 # Tutorial:
 
