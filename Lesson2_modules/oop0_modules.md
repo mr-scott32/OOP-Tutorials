@@ -1,6 +1,6 @@
 # Modules and dictionaries refresher
 
-Before learning about 'classes' make sure you have become familair with using dictionaries and modules.
+Before learning about 'classes' make sure you have become familair with using dictionaries and modules
 
 ## Modules
 
