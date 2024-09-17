@@ -11,7 +11,7 @@ screen = pygame.display.set_mode((600, 200))
 pygame.display.set_caption("Breakout")
 
 #create the sprite using sprite.png
-sprite = pygame.image.load("pygame_class_example/sprite.png")
+sprite = pygame.image.load("sprite.png")
 
 # create a class for a sprite
 class Sprite:
